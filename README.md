@@ -31,6 +31,12 @@
   
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<div align="left" display="flex">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tuananhvd1998%40gmail.com-light?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Asomeone%40example.com">
+
+</div>
+
 
 
 

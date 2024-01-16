@@ -24,4 +24,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/wordpress-light?style=for-the-badge&logo=wordpress&logoColor=white&color=%2321759B">
 </div>
 
+<h3 align="left">My Stats:</h3>
+<div display="flex" align="left">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+</div>
+
 

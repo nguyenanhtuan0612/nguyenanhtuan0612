@@ -27,6 +27,8 @@
 <h3 align="left">My Stats:</h3>
 <div display="flex" align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+  <!-- HTML Image Tag -->
+<img alt="Anurag's GitHub stats" src="image-source" />
 </div>
 
 

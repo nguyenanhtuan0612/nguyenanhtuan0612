@@ -28,7 +28,7 @@
 <div display="flex" align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
   <!-- HTML Image Tag -->
-<img alt="Anurag's GitHub stats" src="image-source" />
+<img alt="Anurag's GitHub stats" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" />
 </div>
 
 

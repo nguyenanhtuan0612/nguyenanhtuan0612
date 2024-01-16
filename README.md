@@ -4,7 +4,7 @@
 </div>
 
 - 🌱 I'm a **fullstack JS developer**
-- ⚡ I love playing games and can work with game engines like **Cocos Creator and Flame .**
+- ⚡ I love playing games and can work with **Cocos Creator and Flame .**
 
 <h3 align="left">My Tech Stack:</h3>
 <div display="flex" align="left">

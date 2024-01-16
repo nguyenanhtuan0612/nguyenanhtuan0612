@@ -25,6 +25,12 @@
 </div>
 
 <h3 align="left">My Stats:</h3>
-[![nguyenanhtuan0612's GitHub | Stats](https://stats.quine.sh/nguyenanhtuan0612/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=nguyenanhtuan0612)
+<div display="flex" align="left">
+
+  [![nguyenanhtuan0612's GitHub | Stats](https://stats.quine.sh/nguyenanhtuan0612/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=nguyenanhtuan0612)
+  
+</div>
+
+
 
 

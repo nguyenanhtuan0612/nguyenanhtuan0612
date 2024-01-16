@@ -26,9 +26,7 @@
 
 <h3 align="left">My Stats:</h3>
 <div display="flex" align="left">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-  <!-- HTML Image Tag -->
-<img alt="Anurag's GitHub stats" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" />
+[![nguyenanhtuan0612's GitHub | Stats](https://stats.quine.sh/nguyenanhtuan0612/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=nguyenanhtuan0612)
 </div>
 
 

@@ -15,6 +15,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-light?style=for-the-badge&logo=Node.js&logoColor=white&color=%23339933">
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-light?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-light?style=for-the-badge&logo=Docker&logoColor=white&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/strapi-light?style=for-the-badge&logo=strapi&logoColor=white&color=%234945FF">
 </div>
 
 <h3 align="left">In Addition:</h3>

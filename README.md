@@ -36,7 +36,7 @@
 <div align="left" display="flex">
   <a href="mailto:tuananhvd1998@gmail.com"> <img alt="Static Badge" src="https://img.shields.io/badge/tuananhvd1998%40gmail.com-light?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335"></a>
  <a href="https://www.kaggle.com/tuananh612"> <img alt="Static Badge" src="https://img.shields.io/badge/tuananh612-light?style=for-the-badge&logo=Kaggle&logoColor=white&color=%2320BEFF"></a>
-  <a href="#">  <img alt="Static Badge" src="https://img.shields.io/badge/%40tuan612-light?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4"></a>
+  <a href="https://t.me/tuan612">  <img alt="Static Badge" src="https://img.shields.io/badge/%40tuan612-light?style=for-the-badge&logo=telegram&logoColor=white&color=%2326A5E4"></a>
 
 
 

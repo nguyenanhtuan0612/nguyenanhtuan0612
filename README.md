@@ -4,7 +4,7 @@
 </div>
 
 - 🌱 I'm a **fullstack JS developer**
-- ⚡ I love video games and i can work with **Cocos Creator and Flame .**
+- ⚡ I love video games and i can work with **Unity, Cocos Creator and Flame .**
 
 <h3 align="left">My Tech Stack:</h3>
 <div display="flex" align="left">
@@ -16,6 +16,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-light?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-light?style=for-the-badge&logo=Docker&logoColor=white&color=%232496ED">
   <img alt="Static Badge" src="https://img.shields.io/badge/strapi-light?style=for-the-badge&logo=strapi&logoColor=white&color=%234945FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-light?style=for-the-badge&logo=unity&logoColor=white&color=black">
 </div>
 
 <h3 align="left">In Addition:</h3>
